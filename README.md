@@ -1,6 +1,6 @@
 # White Space Finder in Chicago-Naperville-Elgin (Metro), IL-IN, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 2 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `858925` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 31 records |
-| Free sample size | 3 records (9.68%) |
-| Last export | 2026-04-14T22:06:53.278564+00:00 |
+| Full dataset size | 27 records |
+| Free sample size | 2 records (7.41%) |
+| Last export | 2026-04-22T00:58:05.169505+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-chicago-naperville-elgin-metro-il-in-us-sample-858925/releases/download/sample-latest/beamstation_858925_food_and_drink-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
