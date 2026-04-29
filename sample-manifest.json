@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c42d2b56-c89a-4306-b5c4-1104843d4132",
+  "export_job_id": "7ecb6537-4274-496f-8730-4616e63ff704",
   "id_short": 858925,
-  "published_at": "2026-04-22T19:04:27Z",
+  "published_at": "2026-04-29T07:53:28Z",
   "repo_name": "white-space-finder-in-chicago-naperville-elgin-metro-il-in-us-sample-858925",
   "sample_asset_name": "beamstation_858925_food_and_drink-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/858925/beamstation_858925_food_and_drink-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "2570b4e4f8e70435f903ffcf8bf7e843ccb9856eb637db01df9cea722a832343",
-  "sample_size_bytes": 23860,
-  "total_records": 27
+  "sample_records": 1,
+  "sample_sha256": "02bea56b6234688af7ecb8f8c347920f72a76bc3233a034ebb0a8095e83ed2ca",
+  "sample_size_bytes": 19399,
+  "total_records": 17
 }
